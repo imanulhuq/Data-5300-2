@@ -180,14 +180,3 @@ If you use this dataset, please cite the accompanying manuscript:
 }
 ```
 
----
-
-## 10. Contact
-
-For questions about this dataset, methodology, or access to additional materials (e.g., raw physiological recordings beyond what is bundled here), please contact the corresponding author listed in the manuscript.
-
-> *"And whoever puts their trust in Allah — He is sufficient for them."*  — Qur'an 65:3
-
----
-
-*Last updated: 2026.*
