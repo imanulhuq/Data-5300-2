@@ -163,20 +163,4 @@ By downloading or using any portion of this repository, you agree to the followi
 3. **No re-identification.** No attempt may be made to re-identify participants from the released pseudonymous data.
 4. **Citation.** Any publication, technical report, or derivative dataset that uses these files must cite the accompanying PHANTOM manuscript (citation forthcoming on acceptance).
 
----
-
-## 9. Citation
-
-If you use this dataset, please cite the accompanying manuscript:
-
-```bibtex
-@inproceedings{phantom_anonymized,
-  title     = {Tired and Phished: A Cognitive Security Study to Measure the Impact of
-               Cognitive Fatigue on Phishing Website Detection Capability},
-  author    = {<authors will be filled in upon acceptance>},
-  booktitle = {<venue>},
-  year      = {<year>},
-  note      = {Under review}
-}
-```
 
